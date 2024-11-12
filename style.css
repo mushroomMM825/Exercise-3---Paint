@@ -1,0 +1,7 @@
+#paint-area {
+    width: 100vw;
+    height: 100vh;
+    background-color: #fafafa;
+    cursor: crosshair;
+    position: relative;
+}
